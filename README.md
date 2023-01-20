@@ -8,5 +8,5 @@ Esse projeto é um desafio da plataforma on-line @DevMedia, onde foi construida 
 - Html
 - Css
 
-Feito por Tiago Souza.
+
 
